@@ -1,0 +1,22 @@
+INPUT
+var A
+var B
+var C
+var D
+var SUM
+var Average
+var Status
+
+-------------------------------
+PROCESS
+
+SUM = A+B+C+D
+AVERAGE = SUM/4
+
+
+----------------------------
+OUTPUT 
+print Status
+if {(AVERAGA =50)} alert ("ok")}
+
+
